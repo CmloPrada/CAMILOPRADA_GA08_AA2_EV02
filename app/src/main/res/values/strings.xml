@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Evidencia apk</string>
+    <string name="title_home">Metas</string>
+    <string name="title_dashboard">Informacion</string>
+    <string name="title_notifications">Gustos</string>
+</resources>
